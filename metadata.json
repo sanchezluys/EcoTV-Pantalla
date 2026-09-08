@@ -1,0 +1,6 @@
+{
+  "name": "EcoTV Pantalla",
+  "description": "Aplicación para Smart TV y Google TV que apaga la pantalla mediante overlay negro y reduce el brillo para ahorro de energía al escuchar audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
